@@ -1,2 +1,2 @@
 # Factory
-The different way to create a factory
+The different ways to create a factory design!
